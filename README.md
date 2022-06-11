@@ -19,6 +19,9 @@ When running the program for the first time, make sure you sign into TikTok. Aft
 folder, so you won't have to log back in again. Note that this is done because TIkTok has bot protection and will not let you automatically
 log into your account.
 
+# Sample Video Output
+https://user-images.githubusercontent.com/62823414/173204330-70dc1480-792f-41f3-96ef-05957e725c6d.mp4
+
 # Issues with the Project
 One of the main issues I found with this is that TikTok does not let you upload videos from PC that use others' audio. This means that each
 TikTok that is uploaded has to use original sound, which hurts its growth in the algorithm. Another major issue is that it is very possible that it will
