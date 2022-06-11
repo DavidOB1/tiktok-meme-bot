@@ -25,7 +25,7 @@ reposted on many different accounts, and there isn't an easy solution to check w
 
 # Modularity
 If you wish to use separate parts of this project rather than just running the main TikTok bot, here are ways to do so:
-- MemeGenerator can be imported into any project and can be used for many different purposes, such as personal meme viewing/collecting.
+- MemeMachine can be imported into any project and can be used for many different purposes, such as personal meme viewing/collecting.
 
 - VideoGenerator can be used on its own to generate videos which can then be manually uploaded to TikTok. This can be a good work-around for the aforementioned
 problem of uploading TikToks on PC, as you can use this to generate the videos and then upload them on a mobile device, allowing you to use a different audio.
