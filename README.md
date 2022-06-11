@@ -13,6 +13,8 @@ Ensure the following before running the program:
 
 - There is at least one mp3 audio in the sounds folder which is of reasonable length (usually between 5-60 seconds).
 
+- All required libraries have been installed
+
 Once that is all complete, you can run the project by running the tiktok_bot.py file.
 
 When running the program for the first time, make sure you sign into TikTok. Afterward, your Google Chrome data will be stored in the selenium_data
