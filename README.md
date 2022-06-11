@@ -1,6 +1,6 @@
 # About the Project
 I've seen a lot of people making bots that can create Reddit videos for TikTok, so I decided to expand on that idea
-to make a program that can make TikTok meme videos and automatically post them. Memes are collected from either Reddit,
+and make a program that can make TikTok meme videos and automatically post them. Memes are collected from either Reddit,
 Instagram, or YouTube, and then they are put on top of a randomly sliced video from the footage folder, and given a sound
 randomly picked from the sounds folder. After that, the video is saved as "output.mp4" and the video will be uploaded to TikTok.
 
