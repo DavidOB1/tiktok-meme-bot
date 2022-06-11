@@ -1,0 +1,8 @@
+instaloader==4.9.1
+moviepy==1.0.3
+praw==7.6.0
+python-dotenv==0.20.0
+pytube==12.1.0
+requests==2.27.1
+scrapetube==2.2.2
+selenium==4.2.0
