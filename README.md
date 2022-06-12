@@ -38,5 +38,5 @@ If you wish to use separate parts of this project rather than just running the m
 problem of uploading TikToks on PC, as you can use this to generate the videos and then upload them on a mobile device, allowing you to use a different audio.
 
 - The TikTok bot itself can be used to post other content aside from generate memes. All you need to do is give a different input to the upload_meme
-method, and different content can be uploaded. For instance, you could use a bot to generate Reddit videos, then pass in the directory of the Reddit videos
+method, and different content can be uploaded. For instance, you could use a bot to generate Reddit videos, then pass in the path of the Reddit videos
 to the upload_meme method to upload the videos automatically.
