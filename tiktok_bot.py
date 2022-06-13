@@ -107,7 +107,7 @@ if __name__ == "__main__":
     load_dotenv()
 
     reddit_info = RedditInfo(
-        os.getenv("CLINET_ID"),
+        os.getenv("CLIENT_ID"),
         os.getenv("SECRET"),
         os.getenv("REDDIT_USERNAME"),
         os.getenv("REDDIT_PASSWORD"),
